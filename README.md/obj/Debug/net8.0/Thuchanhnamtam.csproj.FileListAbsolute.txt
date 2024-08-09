@@ -1,0 +1,14 @@
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\bin\Debug\net8.0\Thuchanhnamtam.exe
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\bin\Debug\net8.0\Thuchanhnamtam.deps.json
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\bin\Debug\net8.0\Thuchanhnamtam.runtimeconfig.json
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\bin\Debug\net8.0\Thuchanhnamtam.dll
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\bin\Debug\net8.0\Thuchanhnamtam.pdb
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\obj\Debug\net8.0\Thuchanhnamtam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\obj\Debug\net8.0\Thuchanhnamtam.AssemblyInfoInputs.cache
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\obj\Debug\net8.0\Thuchanhnamtam.AssemblyInfo.cs
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\obj\Debug\net8.0\Thuchanhnamtam.csproj.CoreCompileInputs.cache
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\obj\Debug\net8.0\Thuchanhnamtam.dll
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\obj\Debug\net8.0\refint\Thuchanhnamtam.dll
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\obj\Debug\net8.0\Thuchanhnamtam.pdb
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\obj\Debug\net8.0\Thuchanhnamtam.genruntimeconfig.cache
+C:\Users\OS\Documents\CodeGym\Thực Hành\Thuchanhnamtam\obj\Debug\net8.0\ref\Thuchanhnamtam.dll
